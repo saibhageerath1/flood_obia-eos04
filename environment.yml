@@ -1,0 +1,14 @@
+name: flood
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - rasterio
+  - scikit-image
+  - scikit-learn
+  - joblib
+  - matplotlib
+  - geopandas
+  - pyproj

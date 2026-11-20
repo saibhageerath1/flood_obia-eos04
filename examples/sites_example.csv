@@ -1,0 +1,6 @@
+name,ndfi,sd,flood
+AP,data/AP_ndfi.tif,data/AP_sd.tif,data/AP_flood.tif
+Bihar,data/Bihar_ndfi.tif,data/Bihar_sd.tif,data/Bihar_flood.tif
+Assam,data/Assam_ndfi.tif,data/Assam_sd.tif,data/Assam_flood.tif
+UP,data/UP_ndfi.tif,data/UP_sd.tif,data/UP_flood.tif
+Punjab,data/Punjab_ndfi.tif,data/Punjab_sd.tif,data/Punjab_flood.tif
